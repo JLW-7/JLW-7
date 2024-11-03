@@ -7,12 +7,12 @@
 - 💞️ I’m looking to collaborate on anything I like. That means basically anything is fine.
 - 📫 How to reach me: july.777.wu@gmail.com
 - 😄 Pronouns: You decide
-- 💻 I am expert in Python and Javascript. I know some HTML5.
+- 💻 I'm an expert in Python and Javascript. I know some HTML5.
 - 🌱 I’m currently learning C++, PHP
 - 🍄 Fun fact: I HATE MUSHROOOOOOOOOOOMSSSSSS!
 
 
-<h4>Last active: Oct 23</h4>
+<h4>Last active: Oct Nov 3</h4>
 <!---
 JLW-7/JLW-7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
