@@ -4,11 +4,11 @@
 </div>
 
 ### 👀 About me
-- 👀 I’m interested in coding, swimming (I'm kinda a **professional swimming athlete**), reading, hiking, listening to music, and making music.  
+- 👀 I enjoy coding, sports, reading, hiking, and listening to music.
 - 💞️ I’m looking to collaborate on anything I like. That means basically anything is fine.  
 - 📫 How to reach me: [july.777.wu@gmail.com](mailto:july.777.wu@gmail.com)  
 - 😄 Pronouns: You decide  
-- 💻 I'm mainly proficient Python, JavaScript and HTML5.  
+- 💻 I'm proficient in Python, JavaScript and HTML5.  
 - 🌱 I’m currently learning C++, PHP, and CSS3.
 - 🧑‍💻 I'm currently working on [🚁 Helix 1.0](https://github.com/JLW-7/helicopter-game), a simple helicopter game.
 - 🍄 Fun fact: I hate mushrooms...
