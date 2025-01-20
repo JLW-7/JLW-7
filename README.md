@@ -18,7 +18,7 @@
   
 ### 🛠️ Tech Stack
 - **Languages**:
-  ![Python](https://img.shields.io/badge/Python-Expert-blue?style=square&logo=python) ![JavaScript](https://img.shields.io/badge/JavaScript-Proficient-yellow?style=square&logo=javascript) ![HTML5](https://img.shields.io/badge/HTML5-Proficient-orange?style=square&logo=html5) ![C++](https://img.shields.io/badge/C++-Basic-lightgrey?style=square&logo=c%2B%2B) ![CSS3](https://img.shields.io/badge/CSS3-Basic-lightgrey?style=square&logo=css3) ![PHP](https://img.shields.io/badge/PHP-Basic-purple?style=square&logo=php)
+  ![Python](https://img.shields.io/badge/Python-Expert-blue?style=square&logo=python) ![JavaScript](https://img.shields.io/badge/JavaScript-Proficient-yellow?style=square&logo=javascript) ![HTML5](https://img.shields.io/badge/HTML5-Proficient-orange?style=square&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-Proficient-lightgrey?style=square&logo=css3) ![C++](https://img.shields.io/badge/C++-Basic-lightgrey?style=square&logo=c%2B%2B) ![PHP](https://img.shields.io/badge/PHP-Basic-purple?style=square&logo=php)
 - **Tools:** Git, VSCode, Pycharm, Replit
 - **Frameworks/Libraries:** Django, Flask, React
 
