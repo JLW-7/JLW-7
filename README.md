@@ -26,7 +26,7 @@
 - [Helix 1.0](https://github.com/JLW-7/helicopter-game-in-javascript), a helicopter game where users avoid obstacles and collect coins to earn points.
 - [Solace Project](https://github.com/JLW-7/Solace-Emotional-Support-Website), an emotional support website for bullying victims and people with mental health challenges.
 
-![GitHub Streak](https://streak-stats.demolab.com?user=JLW-7&theme=light&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JLW-7&layout=compact&card_width=500&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JLW-7&layout=compact&card_width=500&hide_border=true)
 
 
 
