@@ -23,6 +23,7 @@
 - **Frameworks/Libraries:** Django, Flask, React
 
 ### 📁 Projects
+- [Numera](https://github.com/JLW-7/Numera-Calculator-Website), a versatile calculator website for performing everyday calculations (e.g. simple math, BMI, average).
 - [Helix 1.0](https://github.com/JLW-7/helicopter-game-in-javascript), a helicopter game where users avoid obstacles and collect coins to earn points.
 - [Solace Project](https://github.com/JLW-7/Solace-Emotional-Support-Website), an emotional support website for bullying victims and people with mental health challenges.
 
