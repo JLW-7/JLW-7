@@ -38,6 +38,12 @@ ___
 - [Solace Project](https://github.com/JLW-7/Solace-Emotional-Support-Website), an emotional support website for bullying victims and people with mental health challenges.
 <br>
 
+### 🔗 Connect With Me
+- LinkedIn: [July Wu](https://www.linkedin.com/in/july-wu-85b3052a1/)
+- Portfolio (Coming Soon): [julyw.com](https://github.com/JLW-7)
+- Email: [july.777.wu@gmail.com](mailto:july.777.wu@gmail.com) or [toothless2012.pp@gmail.com](mailto:toothless2012.pp@gmail.com)
+<br>
+
 ### 🐙 Github Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JLW-7&layout=compact&card_width=500&hide_border=true) ![Github Stats](https://github-readme-stats.vercel.app/api?username=JLW-7&show_icons=true&count_private=true&hide_border=true)
 
