@@ -3,6 +3,8 @@
   <h2>I'm a student coder 💻, a swimming athlete 🏊, and a music-lover 🎧</h2>
 </div>
 
+![Profile Views](https://img.shields.io/badge/Profile_Views-110234-blue?style=square) 
+
   > **Note:** July updates the below information manually every day!
 <br>
 
