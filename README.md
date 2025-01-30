@@ -23,7 +23,7 @@ ___
 - 😄 Pronouns: You decide  
 - 💻 I'm proficient in Python, JavaScript and HTML5.  
 - 🌱 I’m currently learning C++, PHP, and CSS3.
-- 🧑‍💻 I'm currently working on [🚁 Helix](https://github.com/JLW-7/helicopter-game), a simple helicopter game.
+- 🧑‍💻 I'm currently working on [🚁 ChopperDash](https://github.com/JLW-7/helicopter-game), a simple helicopter game.
 - 📫 How to reach me: email [july.777.wu@gmail.com](mailto:july.777.wu@gmail.com) or [toothless2012.pp@gmail.com](mailto:toothless2012.pp@gmail.com)
 - 🍄 Fun fact: I hate mushrooms...
 <br>
@@ -37,7 +37,7 @@ ___
 
 ### 📁 Projects
 - [Numera](https://github.com/JLW-7/Numera-Calculator-Website), a versatile calculator website for performing everyday calculations (e.g. simple math, BMI, average).
-- [Helix](https://github.com/JLW-7/helicopter-game-in-javascript), a helicopter game where users avoid obstacles and collect coins to earn points.
+- [ChopperDash](https://github.com/JLW-7/helicopter-game-in-javascript), a helicopter game where users avoid obstacles and collect coins to earn points.
 - [Solace Project](https://github.com/JLW-7/Solace-Emotional-Support-Website), an emotional support website for bullying victims and people with mental health challenges.
 <br>
 
