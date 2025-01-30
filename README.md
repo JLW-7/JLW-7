@@ -38,7 +38,8 @@ ___
 ### 📁 Projects
 - [Numera](https://github.com/JLW-7/Numera-Calculator-Website), a versatile calculator website for performing everyday calculations (e.g. simple math, BMI, average).
 - [ChopperDash](https://github.com/JLW-7/helicopter-game-in-javascript), a helicopter game where users avoid obstacles and collect coins to earn points.
-- [Solace Project](https://github.com/JLW-7/Solace-Emotional-Support-Website), an emotional support website for bullying victims and people with mental health challenges.
+- [Penguin Pi](https://github.com/JLW-7/Penguin-Pi-Reminder-Assistant), a smart voice-interactive reminder assistant built with Arduino.
+- [Solace](https://github.com/JLW-7/Solace-Emotional-Support-Website), an emotional support website for bullying victims and people with mental health challenges.
 <br>
 
 ### 🔗 Connect With Me
