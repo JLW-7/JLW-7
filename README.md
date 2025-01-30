@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="julysportrait.png" alt="A portrait of July in school, vibrant and smiling" width=100 height=100>
   <h1>😝 Hullo, I'm July 😝</h1>
   <h2>I'm a student coder 💻, a swimming athlete 🏊, and a music-lover 🎧</h2>
 </div>
