@@ -45,7 +45,7 @@ ___
 ### 🔗 Connect With Me
 - LinkedIn: [July Wu](https://www.linkedin.com/in/july-wu-85b3052a1/)
 - Youtube: [@julywu7](https://www.youtube.com/@julywu7)
-- Portfolio (Coming Soon): [julyw.com](https://github.com/JLW-7)
+- Portfolio: [julyw.com](https://julyw.com/)
 - Email: [july.777.wu@gmail.com](mailto:july.777.wu@gmail.com) or [toothless2012.pp@gmail.com](mailto:toothless2012.pp@gmail.com)
 <br>
 
