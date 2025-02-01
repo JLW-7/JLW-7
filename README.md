@@ -9,9 +9,9 @@
   > **Note:** July updates the below information manually every day!
 <br>
 
-**Last Active: Jan 30**
+**Last Active: Feb 1**
 
-**How Long Have I Been On Github: 100 days**
+**How Long Have I Been On Github: 102 days**
 <br>
 
 ___
