@@ -9,9 +9,13 @@
   > **Note:** July updates the below information manually every day!
 <br>
 
-**Last Active: Feb 1**
 
-**How Long Have I Been On Github: 102 days**
+
+**Last Active: Feb 3 2025**
+
+**Registered: Oct 23 2024**
+
+**How Long I've Been On Github: 104 days**
 <br>
 
 ___
@@ -20,12 +24,12 @@ ___
 ### 👀 About me
 - 👀 I enjoy coding, sports, reading, hiking, and listening to music.
 - 💞️ I’m looking to collaborate on anything I like. That means basically anything is fine.  
-- 😄 Pronouns: You decide  
+- 😄 Pronouns: hersheys🍫
 - 💻 I'm proficient in Python, JavaScript, HTML5 and CSS3.  
 - 🌱 I’m currently learning C++, and PHP.
 - 🧑‍💻 I'm currently working on [🚁 ChopperDash](https://github.com/JLW-7/helicopter-game), a simple helicopter game.
 - 📫 How to reach me: email [july.777.wu@gmail.com](mailto:july.777.wu@gmail.com) or [toothless2012.pp@gmail.com](mailto:toothless2012.pp@gmail.com)
-- 🍄 Fun fact: I hate mushrooms...
+- 🍄 Fun fact: I really hate mushrooms...
 <br>
 
 ### 🛠️ Tech Stack
