@@ -1,6 +1,6 @@
 <div align="center">
   
-  # <img src="hullo.gif" alt="A wacky gif of a yellow smily face waving hello." width=70>Hullo, I'm July     <img src="hullo.gif" alt="A wacky gif of a yellow smily face waving hello." width=70>
+  # <img src="hullo.gif" alt="A wacky gif of a yellow smily face waving hello." width=50>Hullo, I'm July     <img src="hullo.gif" alt="A wacky gif of a yellow smily face waving hello." width=50>
   
   <h2>I'm a student coder 💻, a swimming athlete 🏊, and a music-lover 🎧</h2>
 </div>
