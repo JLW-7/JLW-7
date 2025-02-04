@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="julysportrait.png" alt="A portrait of July in school, vibrant and smiling" width=100 height=100>
-  <h1>😝 Hullo, I'm July 😝</h1>
+  
+  # <img src="hullo.gif" alt="A wacky gif of a yellow smily face waving hello." width=70>Hullo, I'm July     <img src="hullo.gif" alt="A wacky gif of a yellow smily face waving hello." width=70>
+  
   <h2>I'm a student coder 💻, a swimming athlete 🏊, and a music-lover 🎧</h2>
 </div>
 
