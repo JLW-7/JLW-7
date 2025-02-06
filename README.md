@@ -7,17 +7,15 @@
 
 ![Profile Views](https://img.shields.io/badge/Profile_Views-110234-blue?style=square) 
 
-  > **Note:** July updates the below information manually every day!
+> [!NOTE]
+> July updates the below information manually every day!
 <br>
 
+**Last Active:** Feb 3 2025
 
+**Registered:** Oct 23 2024
 
-**Last Active: Feb 3 2025**
-
-**Registered: Oct 23 2024**
-
-**How Long I've Been On Github: 104 days**
-<br>
+**How Long I've Been On Github:** 104 days
 
 ___
 
@@ -28,7 +26,7 @@ ___
 - 😄 Pronouns: hersheys🍫
 - 💻 I'm proficient in Python, JavaScript, HTML5 and CSS3.  
 - 🌱 I’m currently learning C++, and PHP.
-- 🧑‍💻 I'm currently working on [🚁 ChopperDash](https://github.com/JLW-7/helicopter-game), a simple helicopter game.
+- 🧑‍💻 I'm currently working on [🚁 ChopperDash](https://github.com/JLW-7/ChopperDash), a simple helicopter game.
 - 📫 How to reach me: email [july.777.wu@gmail.com](mailto:july.777.wu@gmail.com) or [toothless2012.pp@gmail.com](mailto:toothless2012.pp@gmail.com)
 - 🍄 Fun fact: I really hate mushrooms...
 <br>
