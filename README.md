@@ -25,7 +25,7 @@ ___
 - 💞️ I’m looking to collaborate on anything I like. That means basically anything is fine.  
 - 😄 Pronouns: hersheys🍫
 - 💻 I'm proficient in Python, JavaScript, HTML5 and CSS3.  
-- 🌱 I’m currently learning C++, and PHP.
+- 🌱 I’m currently learning C++, and Go.
 - 🧑‍💻 I'm currently working on [🚁 ChopperDash](https://github.com/JLW-7/ChopperDash), a simple helicopter game.
 - 📫 How to reach me: email [july.777.wu@gmail.com](mailto:july.777.wu@gmail.com) or [toothless2012.pp@gmail.com](mailto:toothless2012.pp@gmail.com)
 - 🍄 Fun fact: I really hate mushrooms...
