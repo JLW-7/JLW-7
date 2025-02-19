@@ -39,8 +39,8 @@ ___
 <br>
 
 ### 📁 Projects
-- [Zebra](https://github.com/pacerclub/zebra), an AI-powered worklog platform made for developers. You can check out its [frontend](https://github.com/pacerclub/zebra-frontend), built with next.js, or its [backend](https://github.com/pacerclub/zebra-backend), built with go.
-- [Numera](https://github.com/JLW-7/Numera-Calculator-Website), a versatile calculator website for performing everyday calculations and conversions (e.g. simple math, BMI, average of numbers, and ).
+- [Zebra](https://github.com/pacerclub/zebra), a worklog platform built for developers. Check out its [frontend](https://github.com/pacerclub/zebra-frontend), built with next.js, or its [backend](https://github.com/pacerclub/zebra-backend), built with go.
+- [Numera](https://github.com/JLW-7/Numera-Calculator-Website), a versatile calculator website for performing everyday calculations and conversions (e.g. simple math, BMI, average).
 - [ChopperDash](https://github.com/JLW-7/helicopter-game-in-javascript), a helicopter game where users avoid obstacles and collect coins to earn points.
 - [Penguin Pi](https://github.com/JLW-7/Penguin-Pi-Reminder-Assistant), a smart voice-interactive reminder assistant built with Arduino.
 - [Solace](https://github.com/JLW-7/Solace-Emotional-Support-Website), an emotional support website for bullying victims and people with mental health challenges.
