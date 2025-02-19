@@ -47,9 +47,11 @@ ___
 <br>
 
 ### 🔗 Connect With Me
-- LinkedIn: [July Wu](https://www.linkedin.com/in/july-wu-85b3052a1/)
-- Youtube: [@julywu7](https://www.youtube.com/@julywu7)
 - Portfolio: [julyw.com](https://julyw.com/)
+- LinkedIn: [july-wu-85b3052a1](https://www.linkedin.com/in/july-wu-85b3052a1/)
+- Youtube: [@julywu7](https://www.youtube.com/@julywu7)
+- Facebook: [July Wu](https://www.facebook.com/profile.php?id=61572697954233)
+- Stack Overflow: [July](https://stackoverflow.com/users/29459174/july)
 - Email: [july.777.wu@gmail.com](mailto:july.777.wu@gmail.com) or [toothless2012.pp@gmail.com](mailto:toothless2012.pp@gmail.com)
 <br>
 
