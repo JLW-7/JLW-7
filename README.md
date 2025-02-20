@@ -24,23 +24,23 @@ ___
 - 👀 I enjoy coding, sports, reading, hiking, and listening to music.
 - 💞️ I’m looking to collaborate on anything I like. That means basically anything is fine.  
 - 😄 Pronouns: hersheys🍫
-- 💻 I'm proficient in Python, JavaScript, HTML5 and CSS3.  
+- 💻 I'm proficient in Python, JavaScript, HTML5, CSS3 and a of bit game development.  
 - 🌱 I’m currently learning C++, and Go.
-- 🧑‍💻 I'm currently working on [🚁 ChopperDash](https://github.com/JLW-7/ChopperDash), a simple helicopter game.
+- 🧑‍💻 I'm currently working on [ChopperDash](https://github.com/JLW-7/ChopperDash), a simple helicopter game.
 - 📫 How to reach me: email [july.777.wu@gmail.com](mailto:july.777.wu@gmail.com) or [toothless2012.pp@gmail.com](mailto:toothless2012.pp@gmail.com)
 - 🍄 Fun fact: I really hate mushrooms...
 <br>
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, HTML5, CSS, Javascript, Java, C++, Go
+- **Languages:** Python, HTML5, CSS, Javascript, Java, C++, Go, GDScript
 - **Frameworks & Libraries**: Next.js, React, Django, Flask, Tailwind CSS, Bootstrap
 - **Databases:** PostgreSQL, MySQL, MongoDB
-- **Tools:** Git, VScode, Pycharm, Replit
+- **Tools:** Git, VScode, Pycharm, Replit, Godot
 
 <br>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" height="50" alt="Python Logo"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50" height="50" alt="HTML Logo"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="50" height="50" alt="CSS Logo"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" height="50" alt="JavaScript Logo">
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="50" height="50" alt="C++ Logo"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/242px-Java_programming_language_logo.svg.png" width="50" height="50" alt="Java Logo"> <img src="https://www.svgrepo.com/show/353657/django-icon.svg" width="50" height="50" alt="Django Logo"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" height="50" alt="React Logo"> <img src="https://www.drupal.org/files/styles/grid-3-2x/public/project-images/screenshot_361.png?itok=w4CzcWyb" width="50" height="50" alt="Tailwind CSS Logo"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="50" height="50" alt="Node.js Logo"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="50" height="50" alt="Next.js Logo"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" width="50" height="50" alt="Git Logo"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="50" height="50" alt="VSCode Logo"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" width="50" height="50" alt="PyCharm Logo"> <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" width="50" height="50" alt="Go Logo"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="50" height="50" alt="C++ Logo"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/242px-Java_programming_language_logo.svg.png" width="50" height="50" alt="Java Logo"> <img src="https://www.svgrepo.com/show/353657/django-icon.svg" width="50" height="50" alt="Django Logo"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" height="50" alt="React Logo"> <img src="https://www.drupal.org/files/styles/grid-3-2x/public/project-images/screenshot_361.png?itok=w4CzcWyb" width="50" height="50" alt="Tailwind CSS Logo"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="50" height="50" alt="Node.js Logo"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="50" height="50" alt="Next.js Logo"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" width="50" height="50" alt="Git Logo"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="50" height="50" alt="VSCode Logo"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" width="50" height="50" alt="PyCharm Logo"> <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" width="50" height="50" alt="Go Logo"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9BifcVcZfa4AL5OSVP_xe43d51GpuIC1agA&s" width="50" height="50" alt="Godot Logo"> 
 
 <br>
 
