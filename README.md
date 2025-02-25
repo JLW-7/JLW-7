@@ -11,11 +11,11 @@
 > July updates the below information manually every day!
 <br>
 
-**Last Active:** Feb 23 2025
+**Last Active:** Feb 25 2025
 
 **Registered:** Oct 23 2024
 
-**How Long I've Been On Github:** 127 days
+**How Long I've Been On Github:** 129 days
 
 ___
 
