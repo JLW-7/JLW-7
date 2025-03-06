@@ -62,8 +62,7 @@ ___
 <br>
 
 ## 🐙 Github Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JLW-7&layout=compact&card_width=300&hide_border=true) ![Github Stats](https://github-readme-stats.vercel.app/api?username=JLW-7&show_icons=true&count_private=true&hide_border=true)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JLW-7&layout=donut&langs_count=10&card_width=300&hide_border=true) ![Github Stats](https://github-readme-stats.vercel.app/api?username=JLW-7&show_icons=true&count_private=true&hide_border=true&show=reviews,prs_merged&rank_icon=github)
 
 
 
