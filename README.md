@@ -11,11 +11,11 @@
 > July updates the below information manually every day!
 <br>
 
-**Last Active:** Mar 30 2025
+**Last Active:** Apr 1 2025
 
 **Registered:** Oct 23 2024
 
-**How Long I've Been On Github:** 161 days
+**How Long I've Been On Github:** 162 days
 
 ___
 
@@ -25,8 +25,8 @@ ___
 - 💞️ I’m looking to collaborate on anything I like. That means basically anything is fine.  
 - 😄 Pronouns: hersheys🍫
 - 💻 I'm proficient in Python, JavaScript, HTML5, CSS3 and a of bit game development.  
-- 🌱 I’m currently learning C++, and Go.
-- 🧑‍💻 I'm currently working on [Eclipsed](https://github.com/JLW-7/Eclipsed), a game built for hackclub's juice event.
+- 🌱 I’m currently learning C++, and Swift.
+- 🧑‍💻 I'm currently working on [Eclipsed](https://github.com/JLW-7/Eclipsed), a game built for hackclub's juice event, and a lot of other things.
 - 📫 How to reach me: email [july.777.wu@gmail.com](mailto:july.777.wu@gmail.com) or [toothless2012.pp@gmail.com](mailto:toothless2012.pp@gmail.com)
 - 🍄 Fun fact: I really hate mushrooms...
 <br>
