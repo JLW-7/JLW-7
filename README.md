@@ -2,7 +2,7 @@
   
   # <img src="hullo.gif" alt="A wacky gif of a yellow smily face waving hello." width=50>Hullo, I'm July     <img src="hullo.gif" alt="A wacky gif of a yellow smily face waving hello." width=50>
   
-  <h3>I'm a student coder 💻, astronomer 🪐, swimming athlete 🏊, and a music-lover 🎧.</h3>
+  <h3>I'm a student coder 💻, astronomy enthusiast 🪐, swimming athlete 🏊, and music-lover 🎧.</h3>
 </div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JLW-7&color=blue&style=flat)
@@ -11,11 +11,11 @@
 > July updates the below information manually every day!
 <br>
 
-**Last Active:** Apr 1 2025
+**Last Active:** Apr 2 2025
 
 **Registered:** Oct 23 2024
 
-**How Long I've Been On Github:** 162 days
+**How Long I've Been On Github:** 163 days
 
 ___
 
