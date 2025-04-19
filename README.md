@@ -45,11 +45,10 @@ ___
 <br>
 
 ## 📁 Projects
-- [Zebra](https://github.com/pacerclub/zebra), a worklog platform built for developers. Check out its [frontend](https://github.com/pacerclub/zebra-frontend), built with next.js, or its [backend](https://github.com/pacerclub/zebra-backend), built with go and postgresql.
-- [Numera](https://github.com/JLW-7/Numera-Calculator-Website), a versatile calculator website for performing everyday calculations and conversions (e.g. simple math, BMI and more); built with html, css, js.
-- [ChopperDash](https://github.com/JLW-7/helicopter-game-in-javascript), a helicopter game where users avoid obstacles and collect coins to earn points; built with javascript.
-- [Penguin Pi](https://github.com/JLW-7/Penguin-Pi-Reminder-Assistant), a smart voice-interactive reminder assistant to remind users of their everyday belongings; built with Arduino and python.
-- [Solace](https://github.com/JLW-7/Solace-Emotional-Support-Website), an emotional support website for bullying victims and people with mental health challenges (still in progress).
+- [Zebra](https://github.com/pacerclub/zebra): a worklog platform built for developers. Check out its [frontend](https://github.com/pacerclub/zebra-frontend), built with next.js, or its [backend](https://github.com/pacerclub/zebra-backend) built with go and postgresql.
+- [Numera](https://github.com/JLW-7/Numera-Calculator-Website): a versatile calculator website for performing everyday calculations and conversions (e.g. simple math, BMI and more); built with html, css, js.
+- [Penguin Pi](https://github.com/JLW-7/Penguin-Pi-Reminder-Assistant): a smart voice-interactive assistant to remind users of their everyday belongings, built with Arduino and python.
+- [Eclipsed](https://github.com/JLW-7/Eclipsed): a 2d multi-level game where players aim to avoid light and stay in the shadows built with Godot.
 <br>
 
 ## 🔗 Connect With Me
