@@ -1,6 +1,6 @@
 <div align="center">
   
-  # <img src="hullo.gif" alt="A wacky gif of a yellow smily face waving hello." width=50>Hullo, I'm July     <img src="hullo.gif" alt="A wacky gif of a yellow smily face waving hello." width=50>
+  # <img src="hullo.gif" alt="yellow smily face :)" width=50>Hullo, I'm July     <img src="hullo.gif" alt="A wacky gif of a yellow smily face waving hello." width=50>
   
   <h3>I'm a student coder 💻, astronomy enthusiast 🪐, swimming athlete 🏊, and music-lover 🎧.</h3>
 </div>
@@ -27,7 +27,7 @@ ___
 - 💻 I'm proficient in Python, JavaScript, HTML5, CSS3 and a of bit game development.  
 - 🌱 I’m currently learning C++, and Swift.
 - 🧑‍💻 I'm currently working on [Eclipsed](https://github.com/JLW-7/Eclipsed), a game built for hackclub's juice event, and a lot of other things.
-- 📫 How to reach me: email [july.777.wu@gmail.com](mailto:july.777.wu@gmail.com) or [toothless2012.pp@gmail.com](mailto:toothless2012.pp@gmail.com)
+- 📫 How to reach me: email [july@julyw.com](mailto:july@julyw.com).
 - 🍄 Fun fact: I really hate mushrooms...
 <br>
 
