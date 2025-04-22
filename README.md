@@ -1,7 +1,6 @@
 
 # <img src="hullo.gif" alt="yellow smily face :)" width=50> Hullo, I'm July
-I'm July, a student full-stack developer based in Shanghai, China.
-___
+I'm July, a passionate student full-stack developer based in Shanghai, China. If you find anything cool, drop a star! 
 
 
 ## 👀 About Me
