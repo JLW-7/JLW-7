@@ -48,10 +48,10 @@ I'm July, a passionate student full-stack developer based in Shanghai, China. If
 
 | ⭐ Name | 🔍 Description |
 |--|--|
-| [**Zebra**](https://github.com/pacerclub/zebra) | An AI-powered developer worklog tracker 🦓 – check out the [frontend](https://github.com/pacerclub/zebra-frontend) & [backend](https://github.com/pacerclub/zebra-backend) |
-| [**Numera**](https://github.com/JLW-7/Numera-Calculator-Website) | Smart all-in-one calculator that’s actually *fun* to use – built with pure HTML/CSS/JS |
-| [**Penguin Pi**](https://github.com/JLW-7/Penguin-Pi-Reminder-Assistant) | An Arduino-powered voice assistant that helps you not forget your stuff! ⛄📢 |
-| [**Eclipsed**](https://github.com/JLW-7/Eclipsed) | A 2D stealth game built with Godot. Hide from light. Trust the shadows. Play your own way. 🌑
+| [**Zebra**](https://github.com/pacerclub/zebra) | An AI-powered developer worklog tracker – check out the [frontend](https://github.com/pacerclub/zebra-frontend) & [backend](https://github.com/pacerclub/zebra-backend) (No longer maintained)|
+| [**Numera**](https://github.com/JLW-7/Numera-Calculator-Website) | Smart all-in-one calculator that’s fun to use – built with HTML, CSS, and Javascript |
+| [**Penguin Pi**](https://github.com/JLW-7/Penguin-Pi-Reminder-Assistant) | An Arduino-powered voice reminder assistant that helps you not forget your stuff! 2.0 version in progress⛄📢 |
+| [**Eclipsed**](https://github.com/JLW-7/Eclipsed) | A 2D stealth, cute-themed game built with Godot. Hide from light. Trust the shadows. Play your own way. 🌑
 
 <br>
 
