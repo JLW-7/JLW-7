@@ -56,7 +56,9 @@ I'm July, a passionate student full-stack developer based in Shanghai, China. If
 <br>
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JLW-7&layout=donut&langs_count=10&card_width=300&hide_border=true)  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JLW-7&show_icons=true&count_private=true&hide_border=true&show=reviews,prs_merged&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JLW-7&layout=donut&langs_count=10&card_width=300&hide_border=true)  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JLW-7&show_icons=true&count_private=true&hide_border=true&show=reviews,prs_merged&rank_icon=github) 
+
+![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=JLW-7)
 
 
 🎂 **GitHub Birthday:** Oct 23 2024  
