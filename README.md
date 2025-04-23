@@ -34,7 +34,7 @@ I'm July, a passionate student full-stack developer based in Shanghai, China. If
   <a href="https://stackoverflow.com/users/29459174/july" target="_blank" title="Stack Overflow">
     <img src="https://img.icons8.com/ios-filled/50/FE7A16/stackoverflow.png" width="40" alt="Stack Overflow"/>
   </a>&nbsp;&nbsp;
-  <a href="mailto:july.777.wu@gmail.com" target="_blank" title="Email">
+  <a href="mailto:july@julyw.com" target="_blank" title="Email">
     <img src="https://cdn0.iconfinder.com/data/icons/apple-apps/100/Apple_Mail-1024.png" width="40" alt="Email"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.facebook.com/profile.php?id=61572697954233" target="_blank" title="Facebook">
@@ -61,7 +61,7 @@ I'm July, a passionate student full-stack developer based in Shanghai, China. If
 
 🎂 **GitHub Birthday:** Oct 23 2024  
 
-📅 **Days on GitHub:** 183 days
+📅 **Days on GitHub:** 182 days
 
 ---
 
