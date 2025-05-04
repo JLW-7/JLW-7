@@ -63,7 +63,7 @@ I'm July, a passionate student full-stack developer based in Shanghai, China. If
 
 🎂 **GitHub Birthday:** Oct 23 2024  
 
-📅 **Days on GitHub:** 184 days
+📅 **Days on GitHub:** I lost track...
 
 ---
 
