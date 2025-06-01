@@ -1,16 +1,20 @@
 
-# <img src="hullo.gif" alt="yellow smily face :)" width=50> Hullo, I'm July
-I'm July, a passionate student full-stack developer based in Shanghai, China. If you find anything cool, drop a star! 
-
+# Hey there, I'm July <img src="hullo.gif" alt="yellow smily face :)" width=50>
+I'm a passionate full-stack student developer based in Shanghai, China, dedicated to building meaningful websites and applications that positively impact people's lives.
 
 ## 👀 About Me
 - 👀 Big fan of coding, sports, astronomy, and music 💻☀️🪐🏊🎧
-- 💬 Ask me about **Python, JavaScript, HTML5, CSS3** or **game development**
-- 🧠 Currently learning **C++, Swift**
-- 🧑‍💻 Currently working on **[Eclipsed](https://github.com/JLW-7/Eclipsed)**, a game built for hackclub's juice event, and a lot of other things
-- 📫 Reach me by **[july@julyw.com](mailto:july@julyw.com)** or **[toothless2012.pp@gmail.com](mailto:toothless2012.pp@gmail.com)**
-- 🍄 Fun fact: I will never forgive mushrooms for existing...🫣
   
+- 💬 Ask me about **Python, JavaScript, HTML5, CSS3** or **game development**
+  
+- 🧠 Currently learning **C++**, **Swift**, and some more **backend development**
+  
+- 🧑‍💻 Currently working on **[Eclipsed](https://github.com/JLW-7/Eclipsed)**, a 2d game, and a lot of other things
+  
+- 📫 Reach me by **[july@julyw.com](mailto:july@julyw.com)** or **[toothless2012.pp@gmail.com](mailto:toothless2012.pp@gmail.com)**
+
+- 🍄 Fun fact: I will never forgive mushrooms for existing...🫣
+
 <br>
 
 ## 🛠️ Tech Stack
@@ -48,27 +52,27 @@ I'm July, a passionate student full-stack developer based in Shanghai, China. If
 
 | ⭐ Name | 🔍 Description |
 |--|--|
-| [**Zebra**](https://github.com/pacerclub/zebra) | An AI-powered developer worklog tracker – check out the [frontend](https://github.com/pacerclub/zebra-frontend) & [backend](https://github.com/pacerclub/zebra-backend) (No longer maintained)|
-| [**Numera**](https://github.com/JLW-7/Numera-Calculator-Website) | Smart all-in-one calculator that’s fun to use – built with HTML, CSS, and Javascript |
-| [**Penguin Pi**](https://github.com/JLW-7/Penguin-Pi-Reminder-Assistant) | An Arduino-powered voice reminder assistant that helps you not forget your stuff! 2.0 version in progress⛄📢 |
-| [**Eclipsed**](https://github.com/JLW-7/Eclipsed) | A 2D stealth, cute-themed game built with Godot. Hide from light. Trust the shadows. Play your own way. 🌑
+| [**CodeLog**](https://github.com/JLW-7/CodeLog) | Time-tracking app for devs and professionals to track, reflect on, and improve how they spend their work hours - project by project|
+| [**Numera**](https://github.com/JLW-7/Numera-Calculator-Website) | Smart all-in-one calculator web app – built with plain HTML, CSS, and Javascript |
+| [**Wally**](https://github.com/JLW-7/wally-c) | An ESP32 + Deepseek powered voice assistant desgined to assist you in daily tasks and help you not forget your stuff! ⛄📢 |
+| [**Eclipsed**](https://github.com/JLW-7/Eclipsed) | A 2D stealth, cute-themed game built with Godot. Hide from light. Trust the shadows. Play your own way. 🌑 |
 
 <br>
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JLW-7&layout=donut&langs_count=10&card_width=300&hide_border=true)  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JLW-7&show_icons=true&count_private=true&hide_border=true&show=reviews,prs_merged&rank_icon=github) 
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JLW-7&layout=donut&langs_count=6&card_width=300&hide_border=true) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JLW-7&show_icons=true&count_private=true&hide_border=true&show=reviews) | ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=JLW-7&hide_border=true) |
+|---|---|---|
 
-![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=JLW-7)
-
+<br>
 
 🎂 **GitHub Birthday:** Oct 23 2024  
 
-📅 **Days on GitHub:** I lost track...
+📅 **Last Active:** Jun 1
 
 ---
 
 <p align="center">
-  Show some 💙 by giving a ⭐ to my repositories or dropping a follow. Pleeeaase 🥺
+  Show some 💙 by giving a ⭐ to my repositories or dropping a follow.
 </p>
 
 
