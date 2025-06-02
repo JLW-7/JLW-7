@@ -69,7 +69,7 @@ I'm a passionate full-stack student developer based in Shanghai, China, dedicate
 ---
 
 <p align="center">
-  Show some 💙 by giving a ⭐ to my repositories or dropping a follow.
+  Show some 💙 by giving a ⭐ to my repositories or dropping a follow!
 </p>
 
 
