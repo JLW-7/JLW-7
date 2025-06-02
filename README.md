@@ -3,17 +3,17 @@
 I'm a passionate full-stack student developer based in Shanghai, China, dedicated to building meaningful websites and applications that positively impact people's lives.
 
 ## 👀 About Me
-- 👀 Big fan of coding, sports, astronomy, and music 💻☀️🪐🏊🎧
+- 👀 I'm a big fan of coding, sports, astronomy, and music 💻☀️🪐🏊🎧
   
 - 💬 Ask me about **Python, JavaScript, HTML5, CSS3** or **game development**
   
-- 🧠 Currently learning **C++**, **Swift**, and some more **backend development**
+- 🧠 I'm urrently learning **C++**, **Swift**, and some more **backend development**
   
-- 🧑‍💻 Currently working on **[Eclipsed](https://github.com/JLW-7/Eclipsed)**, a 2d game, and a lot of other things
+- 🧑‍💻 I'm currently working on **[Eclipsed](https://github.com/JLW-7/Eclipsed)**, a 2d game, and a lot of other cool stuff!
   
-- 📫 Reach me by **[july@julyw.com](mailto:july@julyw.com)** or **[toothless2012.pp@gmail.com](mailto:toothless2012.pp@gmail.com)**
+- 📫 You can each me by **[july@julyw.com](mailto:july@julyw.com)** or **[toothless2012.pp@gmail.com](mailto:toothless2012.pp@gmail.com)**
 
-- 🍄 Fun fact: I will never forgive mushrooms for existing...🫣
+- 🍄 Fun fact: Beyond coding, I'm actually a (professional) **swimming athlete**! 🏊
 
 <br>
 
