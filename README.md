@@ -7,7 +7,7 @@ I'm a passionate full-stack student developer based in Shanghai, China, dedicate
   
 - 💬 Ask me about **Python, JavaScript, HTML5, CSS3** or **game development**
   
-- 🧠 I'm urrently learning **C++**, **Swift**, and some more **backend development**
+- 🧠 I'm currently learning **C++**, **Swift**, and some more **backend development**
   
 - 🧑‍💻 I'm currently working on **[Eclipsed](https://github.com/JLW-7/Eclipsed)**, a 2d game, and a lot of other cool stuff!
   
