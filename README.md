@@ -60,7 +60,7 @@ I'm a passionate full-stack student developer based in Shanghai, China, dedicate
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JLW-7&layout=donut&langs_count=6&card_width=300&hide_border=true) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JLW-7&show_icons=true&count_private=true&hide_border=true&show=reviews) |  
 |---|---|
 
-![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=JLW-7&card_width=800)
+![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=JLW-7&card_width=875)
 
 <br>
 
