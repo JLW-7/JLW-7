@@ -11,9 +11,9 @@ I'm a passionate full-stack student developer based in Shanghai, China, dedicate
   
 - 🧑‍💻 I'm currently working on **[Eclipsed](https://github.com/JLW-7/Eclipsed)**, a 2d game, and a lot of other cool stuff!
   
-- 📫 You can each me by **[july@julyw.com](mailto:july@julyw.com)** or **[toothless2012.pp@gmail.com](mailto:toothless2012.pp@gmail.com)**
+- 📫 You can reach me by **[july@julyw.com](mailto:july@julyw.com)** or **[toothless2012.pp@gmail.com](mailto:toothless2012.pp@gmail.com)**
 
-- 🍄 Fun fact: Beyond coding, I'm actually a (professional) **swimming athlete**! 🏊
+- 🍄 Fun fact: Beyond coding, I'm actually a (professional) **[swimming athlete](https://swimcloud.com/swimmer/1340903)**! 🏊
 
 <br>
 
@@ -66,7 +66,7 @@ I'm a passionate full-stack student developer based in Shanghai, China, dedicate
 
 🎂 **GitHub Birthday:** Oct 23 2024  
 
-📅 **Last Active:** Jun 3
+📅 **Last Active:** Jun 5
 
 ---
 
