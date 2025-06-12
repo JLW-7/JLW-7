@@ -66,7 +66,7 @@ I'm a passionate full-stack student developer based in Shanghai, China, dedicate
 
 🎂 **GitHub Birthday:** Oct 23 2024  
 
-📅 **Last Active:** Jun 10
+📅 **Last Active:** Jun 12
 
 ---
 
