@@ -1,19 +1,19 @@
 
-# Hey there, I'm July <img src="hullo.gif" alt="yellow smily face :)" width=50>
-I'm a passionate full-stack student developer based in Shanghai, China, dedicated to building meaningful websites and applications that positively impact people's lives.
+# Yooo, I'm July <img src="hullo.gif" alt="yellow smily face :)" width=50>
+I'm a 12-yo full-stack dev based in Shanghai, China, tho I specialize in web and game dev, with some experience in hardware and app development.
 
 ## 👀 About Me
-- 👀 I'm a big fan of coding, sports, astronomy, and music 💻☀️🪐🏊🎧
+- 👀 I'm a big fan of coding (like why else am i on github), sports, astronomy, and music 💻☀️🪐🏊🎧
   
-- 💬 Ask me about **Python, JavaScript, HTML5, CSS3** or **game development**
+- 💬 Ask me about **Python, JavaScript, HTML5, CSS3, Swift, C++** or **game development**
   
 - 🧠 I'm currently learning **C++**, **Swift**, and some more **backend development**
   
-- 🧑‍💻 I'm currently working on **[Eclipsed](https://github.com/JLW-7/Eclipsed)**, a 2d game, and a lot of other cool stuff!
+- 🧑‍💻 I'm currently working on **[Eclipsed](https://github.com/JLW-7/Eclipsed)**, a 2d game, and a lot of other cool stuff! Check them out [here](https://julyw.com/projects/).
   
-- 📫 You can reach me by **[july@julyw.com](mailto:july@julyw.com)** or **[toothless2012.pp@gmail.com](mailto:toothless2012.pp@gmail.com)**
+- 📫 You can reach me by **[july@julyw.com](mailto:july@julyw.com)** or **[toothless2012.pp@gmail.com](mailto:toothless2012.pp@gmail.com)** (you pick lol)
 
-- 🍄 Fun fact: Beyond coding, I'm actually a (professional) **[swimming athlete](https://swimcloud.com/swimmer/1340903)**! 🏊
+- 🍄 Fun fact: Beyond coding, I'm actually a (half) professional **[swimming athlete](https://swimcloud.com/swimmer/1340903)**! 🏊
 
 <br>
 
