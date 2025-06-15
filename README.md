@@ -1,6 +1,6 @@
 
 # Yooo, I'm July <img src="hullo.gif" alt="yellow smily face :)" width=50>
-I'm a 12-yo full-stack dev based in Shanghai, China, tho I specialize in web and game dev, with some experience in hardware and app development.
+I'm a 12-yo full-stack dev based in Shanghai, China. I specialize in web and game dev, with some experience in hardware and app development.
 
 ## 👀 About Me
 - 👀 I'm a big fan of coding (like why else am i on github), sports, astronomy, and music 💻☀️🪐🏊🎧
