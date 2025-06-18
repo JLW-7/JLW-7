@@ -66,7 +66,7 @@ I'm a 12-yo full-stack dev based in Shanghai, China. I specialize in web and gam
 
 🎂 **GitHub Birthday:** Oct 23 2024  
 
-📅 **Last Active:** Jun 17
+📅 **Last Active:** Jun 18
 
 ---
 
