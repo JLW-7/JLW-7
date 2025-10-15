@@ -1,5 +1,5 @@
 
-# Heyyy sup, I'm July <img src="hullo.gif" alt="yellow smily face :)" width=50>
+# Hello, I'm July <img src="hullo.gif" alt="yellow smily face :)" width=50>
 I'm a 12-yo full-stack dev based in Shanghai, China. I specialize in web and game dev, with some experience in hardware and app development.
 
 ## 👀 About Me
