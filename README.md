@@ -6,23 +6,18 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JLW-7&label=profile%20views" alt="Profile Views" /> • <img src="https://img.shields.io/github/last-commit/JLW-7/JLW-7" alt="Last Commit" /> • <img src="https://img.shields.io/github/stars/JLW-7" alt="Total Stars" />
 <br>
-  <a href="https://julyw.com/" target="_blank">Personal Website</a> |  Student developer from Shanghai, turning ideas into real-world AI & web projects
+  Student developer from Shanghai, turning ideas into real-world AI & web projects
 </p>
 
-
-
 ### More About Me
-👀 I do have a variety of interests including coding, sports, astronomy, music, reading and much more. Beyond coding, I am a professional swimming athlete competing for Shanghai.
+👀 I have a variety of interests including coding, sports, astronomy, music, reading and much more. Beyond coding, I am a professional swimming athlete competing for Shanghai.
 
-<br>
 
 ### Tech Stack
 💬 I am proficient in **Python, JavaScript, HTML5, CSS3, Swift, C++** or **game development**, and currently learning **backend development**, but here are some other languages and tools I've come across when building projects:
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40" alt="Python Logo"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="40" height="40" alt="HTML Logo"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="40" height="40" alt="CSS Logo"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40" height="40" alt="JavaScript Logo">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="40" height="40" alt="C++ Logo"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9BifcVcZfa4AL5OSVP_xe43d51GpuIC1agA&s" width="40" height="40" alt="Godot Logo"> <img src="https://www.svgrepo.com/show/353657/django-icon.svg" width="40" height="40" alt="Django Logo"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40" height="40" alt="React Logo"> <img src="https://www.drupal.org/files/styles/grid-3-2x/public/project-images/screenshot_361.png?itok=w4CzcWyb" width="40" height="40" alt="Tailwind CSS Logo"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="40" height="40" alt="Node.js Logo"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="40" height="40" alt="Next.js Logo"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" width="40" height="40" alt="Git Logo"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="40" height="40" alt="VSCode Logo"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" width="40" height="40" alt="PyCharm Logo"> <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" width="40" height="40" alt="Go Logo">
-
-<br>
 
 ### Contact
 <p>
