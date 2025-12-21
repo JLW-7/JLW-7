@@ -10,11 +10,11 @@
 </p>
 
 ### More About Me
-👀 I have a variety of interests including coding, sports, astronomy, music, reading and much more. Beyond coding, I am a professional swimming athlete competing for Shanghai.
+👀 I have a wide range of interests, including sports, astronomy, investing, and music. These experiences often inspire many of my cross-disciplinary projects, ranging from an [AI-powered planning tool](https://github.com/JLW-7/WAICY_planner), to a simple yet versatile [calculator web app](https://github.com/JLW-7/numera-calculator). Beyond coding, I am also a full-time competitive swimmer, representing Shanghai in both national and international competitions.
 
 
 ### Tech Stack
-💬 I am proficient in **Python, JavaScript, HTML5, CSS3, and C++**, and currently learning **backend development**, but here's a full list of languages and tools I've touched on:
+💬 I am proficient in **Python, JavaScript, HTML5, CSS3, C++**, and currently learning **backend development**. Here's a full list of languages/tools I've touched on:
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40" alt="Python Logo"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="40" height="40" alt="HTML Logo"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="40" height="40" alt="CSS Logo"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40" height="40" alt="JavaScript Logo">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="40" height="40" alt="C++ Logo"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9BifcVcZfa4AL5OSVP_xe43d51GpuIC1agA&s" width="40" height="40" alt="Godot Logo"> <img src="https://www.svgrepo.com/show/353657/django-icon.svg" width="40" height="40" alt="Django Logo"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40" height="40" alt="React Logo"> <img src="https://www.drupal.org/files/styles/grid-3-2x/public/project-images/screenshot_361.png?itok=w4CzcWyb" width="40" height="40" alt="Tailwind CSS Logo"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="40" height="40" alt="Node.js Logo"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="40" height="40" alt="Next.js Logo"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" width="40" height="40" alt="Git Logo"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="40" height="40" alt="VSCode Logo"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" width="40" height="40" alt="PyCharm Logo"> <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" width="40" height="40" alt="Go Logo">
@@ -57,14 +57,10 @@ Check out more of my projects [here](https://julyw.com/projects/)
 
 <br>
 
-🎂 **GitHub Birthday:** Oct 23 2024  
-
-📅 **Last Active:** Today
-
 ---
 
 <p align="center">
-  Please show some appreciation by giving a ⭐ to my repositories or dropping a follow!
+  It'd be great if you could show some appreciation by giving a ⭐ to my repositories or dropping a follow!
 </p>
 
 
