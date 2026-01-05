@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JLW-7&label=profile%20views" alt="Profile Views" /> • <img src="https://img.shields.io/github/last-commit/JLW-7/JLW-7" alt="Last Commit" /> • <img src="https://img.shields.io/github/stars/JLW-7" alt="Total Stars" />
+  <img src="https://komarev.com/ghpvc/?username=JLW-7&label=Profile%20Views" alt="Profile Views" /> &nbsp;&nbsp; <a href="https://wakatime.com/@7f65ebb6-69fc-446c-bc81-660e7fd90d42"><img src="https://wakatime.com/badge/user/7f65ebb6-69fc-446c-bc81-660e7fd90d42.svg" alt="Total time coded since Mar 18 2025" /></a> &nbsp;&nbsp; <img src="https://img.shields.io/github/stars/JLW-7" alt="Total Stars" />
 <br>
   Student developer from Shanghai, turning ideas into real-world AI & web projects
 </p>
