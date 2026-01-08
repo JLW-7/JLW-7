@@ -57,6 +57,14 @@ Check out more of my projects [here](https://julyw.com/projects/)
 
 ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=JLW-7&card_width=875)
 
+> [!NOTE]
+> I update the last active date below manually every day if I can!
+
+**Last Active**: Jan 8
+
+> [!TIP]
+> More about me can be found in my own special corner of the internet [julyw.com](https://julyw.com/)!
+
 <br>
 
 ---
