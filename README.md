@@ -4,9 +4,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JLW-7&label=Profile%20Views" alt="Profile Views" /> &nbsp;&nbsp; <a href="https://wakatime.com/@7f65ebb6-69fc-446c-bc81-660e7fd90d42"><img src="https://wakatime.com/badge/user/7f65ebb6-69fc-446c-bc81-660e7fd90d42.svg" alt="Total time coded since Mar 18 2025" /></a> &nbsp;&nbsp; <img src="https://img.shields.io/github/stars/JLW-7" alt="Total Stars" />
-<br>
-  Student developer from Shanghai, turning ideas into real-world AI & web projects
+  <img src="https://komarev.com/ghpvc/?username=JLW-7&label=Profile%20Views" alt="Profile Views" /> &nbsp; <a href="https://wakatime.com/@7f65ebb6-69fc-446c-bc81-660e7fd90d42"><img src="https://wakatime.com/badge/user/7f65ebb6-69fc-446c-bc81-660e7fd90d42.svg" alt="Total time coded since Mar 18 2025" /></a> &nbsp; <img src="https://img.shields.io/github/stars/JLW-7" alt="Total Stars" />
+<br><br>
+  <b>Student developer from Shanghai, turning ideas into real-world AI & web projects</b>
 </p>
 
 ### More About Me
@@ -60,7 +60,7 @@ Check out more of my projects [here](https://julyw.com/projects/)
 > [!NOTE]
 > I update the last active date below manually every day if I can!
 
-**Last Active**: Jan 8
+**Last Active**: Jan 13
 
 > [!TIP]
 > More about me can be found in my own special corner of the internet [julyw.com](https://julyw.com/)!
