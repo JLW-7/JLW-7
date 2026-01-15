@@ -60,7 +60,7 @@ Check out more of my projects [here](https://julyw.com/projects/)
 > [!NOTE]
 > I update the last active date below manually every day if I can!
 
-**Last Active**: Jan 13
+**Last Active**: Jan 15
 
 > [!TIP]
 > More about me can be found in my own special corner of the internet [julyw.com](https://julyw.com/)!
