@@ -10,11 +10,15 @@
 </p>
 
 ### More About Me
-👀 I have a wide range of interests, including sports, astronomy, investing, and music. These experiences often inspire many of my cross-disciplinary projects, ranging from an [AI-powered planning tool](https://github.com/JLW-7/WAICY_planner), to a simple yet versatile [calculator web app](https://github.com/JLW-7/numera-calculator). Beyond coding, I am also a full-time competitive swimmer, representing Shanghai in both national and international competitions.
+👀 I'm a full-time 13 year old student with a wide range of interests, including sports, astronomy, investing, and music. When I was 10, I started building and breaking things because I was genuinely intrigiued by the idea of solving problems using technology. 
+
+Along the way, I've built countless open source projects and gained many valuable insights where I usually document in my [blog](https://blog.julyw.com/). Beyond coding, I do a lot of things, which is why I'm also a competitive student swimming athlete, representing my city (Shanghai) in both national and international competitions.
+
+I'm always open to collaboration and any freelancing opportunities. Feel free to contact me on [my contact page](https://julyw.com/contact/) or through my email [july@julyw.com](mailto:july@julyw.com).
 
 
 ### Tech Stack
-💬 I am proficient in **Python, JavaScript, HTML5, CSS3, C++**, and currently learning **backend development**. Here's a full list of languages/tools I've touched on:
+💬 I consider myself proficient in **Python, JavaScript, HTML5, CSS3, C++**, and I'm currently learning more about **backend development**. Here's a full list of languages/tools I've touched on in projects:
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40" alt="Python Logo"> &nbsp;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="40" height="40" alt="HTML Logo"> &nbsp;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="40" height="40" alt="CSS Logo"> &nbsp;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40" height="40" alt="JavaScript Logo"> &nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="40" height="40" alt="C++ Logo"> &nbsp;&nbsp; <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9BifcVcZfa4AL5OSVP_xe43d51GpuIC1agA&s" width="40" height="40" alt="Godot Logo"> &nbsp;&nbsp; <img src="https://www.svgrepo.com/show/353657/django-icon.svg" width="40" height="40" alt="Django Logo"> &nbsp;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40" height="40" alt="React Logo"> &nbsp;&nbsp; <img src="https://www.drupal.org/files/styles/grid-3-2x/public/project-images/screenshot_361.png?itok=w4CzcWyb" width="40" height="40" alt="Tailwind CSS Logo"> &nbsp;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="40" height="40" alt="Node.js Logo"> &nbsp;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="40" height="40" alt="Next.js Logo"> &nbsp;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" width="40" height="40" alt="Git Logo"> &nbsp;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="40" height="40" alt="VSCode Logo"> &nbsp;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" width="40" height="40" alt="PyCharm Logo"> &nbsp;&nbsp; 
@@ -40,7 +44,7 @@
   </a>
 </p>
 
-### Some Cool Stuff I've Built
+### Featured Projects
 
 | Name | Description |
 |--|--|
@@ -57,6 +61,8 @@ Check out more of my projects [here](https://julyw.com/projects/)
 
 ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=JLW-7&card_width=875)
 
+Apologies for the seemingly broken links, but the GitHub Stats and Streak services has been down for the past few days. I hope those guys fix it soon.
+
 > [!NOTE]
 > I update the last active date below manually every day if I can!
 
@@ -64,8 +70,6 @@ Check out more of my projects [here](https://julyw.com/projects/)
 
 > [!TIP]
 > More about me can be found in my own special corner of the internet [julyw.com](https://julyw.com/)!
-
-<br>
 
 ---
 
