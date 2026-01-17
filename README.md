@@ -4,8 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JLW-7&label=Profile%20Views" alt="Profile Views" /> &nbsp; <a href="https://wakatime.com/@7f65ebb6-69fc-446c-bc81-660e7fd90d42"><img src="https://wakatime.com/badge/user/7f65ebb6-69fc-446c-bc81-660e7fd90d42.svg" alt="Total time coded since Mar 18 2025" /></a> &nbsp; <img src="https://img.shields.io/github/stars/JLW-7" alt="Total Stars" />
-<br><br>
+   <img src="https://komarev.com/ghpvc/?username=JLW-7&label=Profile%20Views" alt="Profile Views" /> &nbsp; <a href="https://wakatime.com/@7f65ebb6-69fc-446c-bc81-660e7fd90d42">      <img src="https://wakatime.com/badge/user/7f65ebb6-69fc-446c-bc81-660e7fd90d42.svg" alt="Total time coded since Mar 18 2025" /></a> &nbsp; <img src="https://img.shields.io/github/stars/JLW-7" alt="Total Stars" /><br><br>
   <b>Student developer from Shanghai, turning ideas into real-world AI & web projects</b>
 </p>
 
@@ -74,9 +73,7 @@ Apologies for the seemingly broken links, but the GitHub Stats and Streak servic
 ---
 
 <p align="center">
-   
-  <i>🥇 Citius, Altius, Fortius.</i>
-  
+  <i>✨ “Non est ad astra mollis e terris via.” There is no easy path from the earth to the stars. ✨</i>
 </p>
 
 
