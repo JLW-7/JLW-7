@@ -64,7 +64,7 @@ Apologies for the seemingly broken links, but the GitHub Stats and Streak servic
 > [!NOTE]
 > I update the last active date below manually every day if I can!
 
-**Last Active**: Feb 8
+**Last Active**: Feb 10
 
 > [!TIP]
 > More about me can be found in my own special corner of the internet [julyw.com](https://julyw.com/)!
